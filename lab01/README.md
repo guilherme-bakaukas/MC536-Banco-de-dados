@@ -1,7 +1,7 @@
 # Lab01 - API Acesso
 
 # Aluno
-* `217332´ - `Guilherme Tezoli Bakaukas´
+* `217332` - `Guilherme Tezoli Bakaukas`
 
 ## Tarefa 1 sobre APIs de acesso
 
