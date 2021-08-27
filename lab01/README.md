@@ -1,15 +1,7 @@
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a tarefa
-│
-├── images     <- arquivo de imagem da tarefa
-│
-└── notebook   <- arquivos do notebook
-~~~
+# Lab01 - API Acesso
 
 # Aluno
-* Guilherme Tezoli Bakaukas - 217332
+* `217332´ - `Guilherme Tezoli Bakaukas´
 
 ## Tarefa 1 sobre APIs de acesso
 
