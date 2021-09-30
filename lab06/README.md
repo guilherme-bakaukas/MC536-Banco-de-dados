@@ -7,7 +7,7 @@
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `<referência bibliográfica do artigo>` |
+| referência | `SÁ, B.; MULLER, G.; BANNI, M.; SANTOS, W.; LAGE, M.; ROSSETI, I.; FROTA, Y.; OLIVEIRA, D. PolRoute-DS: um Dataset de Dados Criminais para Geração de Rotas de Patrulhamento Policial. SBBD-DSW, 2021. Disponível em: <https://drive.google.com/file/d/10Q_T1TANC5BtEBpPexsTv7-gfOLva5X2/view>. Acesso em 30 de set de 2021.` |
 | link       | `https://drive.google.com/file/d/10Q_T1TANC5BtEBpPexsTv7-gfOLva5X2/view` |
 | dataset | `https://osf.io/mxrgu/` |
 | formato | `csv` |
